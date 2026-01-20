@@ -2,7 +2,7 @@
 //25.12.2025
 //6 kyu
 // https://www.codewars.com/kata/564057bc348c7200bd0000ff
-package com.example.demo;
+package com.example.codewars.week2;
 
 import java.util.List;
 import java.util.ArrayList;

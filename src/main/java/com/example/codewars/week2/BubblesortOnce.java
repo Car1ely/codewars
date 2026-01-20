@@ -17,7 +17,7 @@
 //Task
 //
 //Given an array of integers, your function should return a new array equivalent to performing exactly 1 complete pass on the original array. Your function should be pure, i.e. it should not mutate the input array.
-package com.example.demo;
+package com.example.codewars.week2;
 
 public class BubblesortOnce {
     public static int[] bubbleSortOnce(int[] array) {

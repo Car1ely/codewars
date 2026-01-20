@@ -13,7 +13,7 @@
 //The string and the array will be of equal length.
 //The string will contain valid characters (A-Z, a-z, or 0-9);
 //the array will contain valid indices.
-package com.example.demo;
+package com.example.codewars.week2;
 
 public class StringScramble {
 

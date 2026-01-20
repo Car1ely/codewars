@@ -10,7 +10,7 @@
 //"abc##d######"  ==>  ""
 //"#######"       ==>  ""
 //""              ==>  ""
-package com.example.demo;
+package com.example.codewars.week2;
 import java.util.Stack;
 
 public class BackspaceInString {

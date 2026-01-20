@@ -5,7 +5,7 @@
 /// 6 kyu
 /// 25.12.2025
 /// https://www.codewars.com/kata/514b92a657cdc65150000006
-package com.example.demo;
+package com.example.codewars.week2;
 
 public class Multiples3or5 {
 

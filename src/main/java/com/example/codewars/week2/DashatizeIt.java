@@ -5,7 +5,7 @@
 //274 -> '2-7-4'
 //6815 -> '68-1-5'
 
-package com.example.demo;
+package com.example.codewars.week2;
 public class DashatizeIt {
 
     public static String dashatize(int num) {
